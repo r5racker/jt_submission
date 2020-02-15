@@ -1,0 +1,20 @@
+SMAP
+get_005ffeedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 get_feedback.jsp
+get_feedback.jsp
++ 1 search.html
+search.html
+*L
+5,12:50
+1#1,20:62
+16#0,2:81
+17:10
+17:83
+18:84,3
+19:87
+20:88,3
+21,3:91
+*E
